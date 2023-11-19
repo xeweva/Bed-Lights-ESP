@@ -1,4 +1,5 @@
-# Bed-Lights-ESP
+# Bed Lights ESP
+
 LED lights controlled by Amazon Alexa.
 Uses Brightness value to set the lights mode, due to the library limitations.
 
